@@ -2,7 +2,7 @@
   "tasks": [
     {
       "id": 2,
-      "label": "learn angular",
+      "label": "learn angular ",
       "completed": true
     },
     {
@@ -13,10 +13,10 @@
     {
       "id": 3,
       "label": "learn laravel",
-      "completed": false
+      "completed": true
     },
     {
-      "label": "learn java",
+      "label": "learn java ee",
       "completed": true,
       "id": 4
     }
